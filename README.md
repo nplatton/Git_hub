@@ -18,14 +18,14 @@ We are Github👀 we **do not care** about your reasoning, just that you enjoy y
 ## Installation & Usage
 
 - Clone or download the repo
-- Navigate to the `Github_clone` folder using `cd Github_clone`
+- Navigate to the `Git_hub_` folder using `cd Git_hub_`
 - Create a `.env` file and add `API_URL=https://api.github.com`
 - Run `npm install` to install dependencies
 - Run `npm run dev` to launch the development application on `localhost: 6969`
 
 ### Testing
 
-- While in the `Github_clone` folder run `npm test` to launch the test suite
+- While in the `Git_hub` folder run `npm test` to launch the test suite
 - To view the coverage of the test suites run `npm run coverage` whilst in the same folder as above
 
 ## Technologies used
