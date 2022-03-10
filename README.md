@@ -1,19 +1,22 @@
+**PLEASE NOTE:**  In order to view our full commit history see [this repo](https://github.com/nplatton/Github_clone)
+
 # Welcome to Github 👀!
 
 ![Screenshot](/src/images/screenshot.png)
 
-Have you got too much time on your hands and want to stalk your friends on Github without actually going on github👀? <br/>
+Have you got too much time on your hands and want to stalk your Github followers without actually going on Github? <br/>
 Maybe you are just data conscious and want to see what data is available about yourself on the net?<br/>
 
-We are Github👀 we **do not care** about your reasoning, just that you enjoy your new found access to data!
+We are Github👀. We **do not care** about your reasoning, just that you enjoy your new found access to data!
 
 ## Table of Contents
 
 - [Installation & Usage](#installation--usage)
-- [Technologies](#technologies)
+- [Technologies Used](#technologies-used)
 - [Changelog](#changelog)
 - [Challenges](#challenges)
 - [Bugs](#bugs)
+- [Future Features](#future-features)
 
 ## Installation & Usage
 
@@ -28,7 +31,7 @@ We are Github👀 we **do not care** about your reasoning, just that you enjoy y
 - While in the `Git_hub` folder run `npm test` to launch the test suite
 - To view the coverage of the test suites run `npm run coverage` whilst in the same folder as above
 
-## Technologies used
+## Technologies Used
 
 #### Design
 
@@ -92,6 +95,12 @@ We are Github👀 we **do not care** about your reasoning, just that you enjoy y
 
 ## Bugs
 
-- Did not have time to add onClick events on specific repos
-- Couldnt implement back button due to it being a single page application
+- Did not have time to add `onClick` events on specific repos
+- Couldn't implement back button due to it being a single page application
 - When user is not found it still displays the title with the given username along with the 404 error
+
+## Future Features
+
+- Add back button to 404 page
+- Add a "sort of" back button to the user's repo page. 
+  - Upon clicking the button it sets `username=""` and triggers a re-render
