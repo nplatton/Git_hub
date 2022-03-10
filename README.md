@@ -21,7 +21,7 @@ We are Github👀. We **do not care** about your reasoning, just that you enjoy 
 ## Installation & Usage
 
 - Clone or download the repo
-- Navigate to the `Git_hub_` folder using `cd Git_hub_`
+- Navigate to the `Git_hub` folder using `cd Git_hub`
 - Create a `.env` file and add `API_URL=https://api.github.com`
 - Run `npm install` to install dependencies
 - Run `npm run dev` to launch the development application on `localhost: 6969`
